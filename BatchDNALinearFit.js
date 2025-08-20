@@ -301,9 +301,9 @@ function BatchDNALinearFitDialog()
    this.helpLabel.useRichText = true;
    this.helpLabel.text = "<p><b>" + TITLE + " v" + VERSION + "</b> &mdash; " +
                          "A batch image dna linear fitting utility.</p>" +
-                         "<p>Based on the <b>BatchLinearFit</b> script by Antti Kuntsi." +
+                         "<p>Based on the <b>BatchLinearFit</b> script by Antti Kuntsi.<br>" +
                          "Copyright &copy; 2013 Antti Kuntsi</p>" +
-                         "<p>Based on the <b>dnaLinearFit</b> script by David Ault." +
+                         "<p>Based on the <b>dnaLinearFit</b> script by David Ault.<br>" +
                          "Copyright &copy; 2014 David Ault</p>" +
                          "<p>Copyright &copy; 2025 Martin Mančuška, Drahoš Volný</p>";
    //
